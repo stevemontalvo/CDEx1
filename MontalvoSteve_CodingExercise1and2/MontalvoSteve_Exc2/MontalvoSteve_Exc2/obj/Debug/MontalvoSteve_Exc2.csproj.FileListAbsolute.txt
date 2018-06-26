@@ -1,0 +1,12 @@
+C:\Users\SteveMontalvo\Google Drive\MontalvoSteve_Exc2\MontalvoSteve_Exc2\bin\Debug\MontalvoSteve_Exc2.exe.config
+C:\Users\SteveMontalvo\Google Drive\MontalvoSteve_Exc2\MontalvoSteve_Exc2\bin\Debug\MontalvoSteve_Exc2.exe
+C:\Users\SteveMontalvo\Google Drive\MontalvoSteve_Exc2\MontalvoSteve_Exc2\bin\Debug\MontalvoSteve_Exc2.pdb
+C:\Users\SteveMontalvo\Google Drive\MontalvoSteve_Exc2\MontalvoSteve_Exc2\obj\Debug\MontalvoSteve_Exc2.csprojResolveAssemblyReference.cache
+C:\Users\SteveMontalvo\Google Drive\MontalvoSteve_Exc2\MontalvoSteve_Exc2\obj\Debug\MontalvoSteve_Exc2.exe
+C:\Users\SteveMontalvo\Google Drive\MontalvoSteve_Exc2\MontalvoSteve_Exc2\obj\Debug\MontalvoSteve_Exc2.pdb
+C:\Users\SteveMontalvo\Google Drive\Project and PortfolioII2\MontalvoSteve_Exc2\MontalvoSteve_Exc2\bin\Debug\MontalvoSteve_Exc2.exe.config
+C:\Users\SteveMontalvo\Google Drive\Project and PortfolioII2\MontalvoSteve_Exc2\MontalvoSteve_Exc2\obj\Debug\MontalvoSteve_Exc2.exe
+C:\Users\SteveMontalvo\Google Drive\Project and PortfolioII2\MontalvoSteve_Exc2\MontalvoSteve_Exc2\obj\Debug\MontalvoSteve_Exc2.pdb
+C:\Users\SteveMontalvo\Google Drive\Project and PortfolioII2\MontalvoSteve_Exc2\MontalvoSteve_Exc2\bin\Debug\MontalvoSteve_Exc2.exe
+C:\Users\SteveMontalvo\Google Drive\Project and PortfolioII2\MontalvoSteve_Exc2\MontalvoSteve_Exc2\bin\Debug\MontalvoSteve_Exc2.pdb
+C:\Users\SteveMontalvo\Google Drive\Project and PortfolioII2\MontalvoSteve_Exc2\MontalvoSteve_Exc2\obj\Debug\MontalvoSteve_Exc2.csprojResolveAssemblyReference.cache
